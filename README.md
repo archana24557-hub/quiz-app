@@ -22,8 +22,6 @@ https://archana24557-hub.github.io/quiz-app/
 
 Scan this QR code to open the Quiz App:
 
-![Quiz App QR](My_QR_Code_1-1024.png)
-
 <p align="center">
   <img src="My_QR_Code_1-1024.png" alt="Quiz App QR" width="250">
 </p>
