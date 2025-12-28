@@ -18,6 +18,8 @@ A simple Quiz Application built using HTML, CSS, and JavaScript.
 
 https://archana24557-hub.github.io/quiz-app/
 
+<img src="My_QR_Code_1-1024.png" alt="Quiz App QR" width="250">
+
 ## Author
 
 Archana Kumari
