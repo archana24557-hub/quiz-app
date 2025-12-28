@@ -17,6 +17,11 @@ A simple Quiz Application built using HTML, CSS, and JavaScript.
 ## Live Demo
 
 https://archana24557-hub.github.io/quiz-app/
+## 🔗 Live Demo (QR Code)
+
+Scan this QR code to open the Quiz App:
+
+![Quiz App QR](My_QR_Code_1-1024.png)
 
 ## Author
 
