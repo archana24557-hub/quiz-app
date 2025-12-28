@@ -1,10 +1,10 @@
 * { margin: 0; padding: 0; box-sizing: border-box; }
-body { background: F96E5B; color: #fff; font-family: Arial; }
+body { background: #e0f2fe;color:#a652b6; font-family: Arial; }
 
 .container {
   width: 500px;
   margin: 60px auto;
-  background: #c1727f;
+  background: #ffffff;
   padding: 20px;
   border-radius: 10px;
 }
@@ -12,14 +12,14 @@ body { background: F96E5B; color: #fff; font-family: Arial; }
 h1 { text-align: center; margin-bottom: 20px; }
 
 #options li {
-  background: #374151;
+  background: #2563eb;
   margin: 10px 0;
   padding: 10px;
   border-radius: 5px;
   cursor: pointer;
 }
 
-#options li:hover { background: #4b5563; }
+#options li:hover { background: #1e40af;}
 
 .btn-box { display: flex; justify-content: space-between; margin-top: 15px; }
 button { padding: 10px 15px; cursor: pointer; }
