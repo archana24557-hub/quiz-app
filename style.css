@@ -1,27 +1,15 @@
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
-
-body {
-  background: #111827;   /* dark background */
-  color: #ffffff;
-  font-family: Arial;
-}
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body { background: #111827; color: #fff; font-family: Arial; }
 
 .container {
   width: 500px;
   margin: 60px auto;
-  background: #1f2937;   /* dark card */
+  background: #1f2937;
   padding: 20px;
   border-radius: 10px;
 }
 
-h1 {
-  text-align: center;
-  margin-bottom: 20px;
-}
+h1 { text-align: center; margin-bottom: 20px; }
 
 #options li {
   background: #374151;
@@ -31,21 +19,9 @@ h1 {
   cursor: pointer;
 }
 
-#options li:hover {
-  background: #4b5563;
-}
+#options li:hover { background: #4b5563; }
 
-.btn-box {
-  display: flex;
-  justify-content: space-between;
-  margin-top: 15px;
-}
+.btn-box { display: flex; justify-content: space-between; margin-top: 15px; }
+button { padding: 10px 15px; cursor: pointer; }
 
-button {
-  padding: 10px 15px;
-  cursor: pointer;
-}
-
-.hide {
-  display: none;
-}
+.hide { display: none; }
